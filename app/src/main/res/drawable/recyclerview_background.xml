@@ -1,0 +1,8 @@
+<!-- res/drawable/recyclerview_background.xml -->
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <solid android:color="#121212" /> <!-- Set the color to your desired dark gray shade --><!-- Adjust the radius for rounded corners -->
+
+</shape>
