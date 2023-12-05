@@ -1,0 +1,26 @@
+# Spotify Artist Explorer
+
+This Android native application takes a keyword search and shows a list of artist names and their associated image. When the user taps an artist, it displays a separate screen which shows the artist’s name,
+their number of followers, and their associated image.
+
+## Prerequisites
+
+- Android Studio
+
+### Installation
+
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/yourusername/yourproject.git
+2. Open project in Android studio
+3. Make a raw file in the res folder and add spotify.properties with
+  client_id="clientID"
+  client_secret="clientSecret"
+4. Setup Emulator on device manager based on specifications below.
+5. Run emulator on app
+
+#### Emulator Env
+
+- Android Studio Emulator
+- Pixel 7 API 25
+- Android Nougat 7.1.1
